@@ -1,8 +1,8 @@
-### Hi there 👋 Im Tyler
+### Hi there 👋
 - 🔭 I’m currently working on making a website in nuxt.js
 - 🌱 I’m currently learning vue.js/nuxt.js, html, css, tailwind css, js, docker
 - 😄 Pronouns: He/Him
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nunya-9018&count_private=true&theme=dark&show_icons=true&hide_langs_below=1)
 [![Discord Presence](https://lanyard.cnrad.dev/api/382579396848123914?hideDiscrim=true)]()
 
 <!--
