@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning vue.js/nuxt.js, html, css, tailwind css, js, docker
 - 😄 Pronouns: He/Him
 
-[![Nunya-9018's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nunya-9018)](https://github.com/anuraghazra/github-readme-stats)
+[![Nunya-9018's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nunya-9018&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Discord Presence](https://lanyard.cnrad.dev/api/382579396848123914?hideDiscrim=true)]()
 
 <!--
